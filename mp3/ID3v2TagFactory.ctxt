@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bytes
+comment0.target=AbstractID3v2Tag\ createTag(byte[])
+comment1.params=bytes
+comment1.target=AbstractID3v2Tag\ createID3v22Tag(byte[])
+comment2.params=bytes
+comment2.target=void\ sanityCheckTag(byte[])
+numComments=3

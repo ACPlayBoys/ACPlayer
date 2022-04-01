@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=MutableInteger(int)
+comment1.params=
+comment1.target=void\ increment()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=value
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=int\ hashCode()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ID3v22Tag()
+comment1.params=buffer
+comment1.target=ID3v22Tag(byte[])
+comment2.params=buffer\ obseleteFormat
+comment2.target=ID3v22Tag(byte[],\ boolean)
+comment3.params=bytes
+comment3.target=void\ unpackFlags(byte[])
+comment4.params=bytes\ offset
+comment4.target=void\ packFlags(byte[],\ int)
+numComments=5

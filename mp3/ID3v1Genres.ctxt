@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=description
+comment0.target=int\ matchGenreDescription(java.lang.String)
+comment0.text=\r\n\ Match\ provided\ description\ against\ genres,\ ignoring\ case.\r\n\ @return\ matching\ genre\ index\ or\ -1\r\n
+numComments=1

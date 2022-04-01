@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=unsynchronisation
+comment0.target=ID3v2TextFrameData(boolean)
+comment1.params=unsynchronisation\ text
+comment1.target=ID3v2TextFrameData(boolean,\ EncodedText)
+comment2.params=unsynchronisation\ bytes
+comment2.target=ID3v2TextFrameData(boolean,\ byte[])
+comment3.params=bytes
+comment3.target=void\ unpackFrameData(byte[])
+comment4.params=
+comment4.target=byte[]\ packFrameData()
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=
+comment6.target=EncodedText\ getText()
+comment7.params=text
+comment7.target=void\ setText(EncodedText)
+comment8.params=
+comment8.target=int\ hashCode()
+comment9.params=obj
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

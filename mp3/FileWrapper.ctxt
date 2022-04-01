@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileWrapper()
+comment1.params=filename
+comment1.target=FileWrapper(java.lang.String)
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=java.lang.String\ getFilename()
+comment4.params=
+comment4.target=long\ getLength()
+comment5.params=
+comment5.target=long\ getLastModified()
+numComments=6

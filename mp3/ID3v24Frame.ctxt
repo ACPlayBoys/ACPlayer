@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=buffer\ offset
+comment0.target=ID3v24Frame(byte[],\ int)
+comment1.params=id\ data
+comment1.target=ID3v24Frame(java.lang.String,\ byte[])
+comment2.params=buffer\ offset
+comment2.target=void\ unpackDataLength(byte[],\ int)
+comment3.params=
+comment3.target=byte[]\ packDataLength()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

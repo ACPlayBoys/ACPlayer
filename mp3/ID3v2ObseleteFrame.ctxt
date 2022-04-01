@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=buffer\ offset
+comment0.target=ID3v2ObseleteFrame(byte[],\ int)
+comment1.params=id\ data
+comment1.target=ID3v2ObseleteFrame(java.lang.String,\ byte[])
+comment2.params=buffer\ offset
+comment2.target=int\ unpackHeader(byte[],\ int)
+comment3.params=buffer\ offset
+comment3.target=void\ unpackDataLength(byte[],\ int)
+comment4.params=bytes\ offset
+comment4.target=void\ packFrame(byte[],\ int)
+comment5.params=
+comment5.target=int\ getLength()
+numComments=6

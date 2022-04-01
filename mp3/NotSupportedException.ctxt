@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NotSupportedException()
+comment1.params=message
+comment1.target=NotSupportedException(java.lang.String)
+comment2.params=message\ cause
+comment2.target=NotSupportedException(java.lang.String,\ java.lang.Throwable)
+numComments=3

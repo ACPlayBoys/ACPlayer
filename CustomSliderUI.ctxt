@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=CustomSliderUI(javax.swing.JSlider)
+comment1.params=
+comment1.target=void\ init()
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment3.params=
+comment3.target=void\ co()
+comment4.params=g\ c
+comment4.target=void\ paint(java.awt.Graphics,\ javax.swing.JComponent)
+comment5.params=
+comment5.target=java.awt.Dimension\ getThumbSize()
+comment6.params=g
+comment6.target=void\ paintTrack(java.awt.Graphics)
+comment7.params=g
+comment7.target=void\ update(java.awt.Graphics)
+comment8.params=g
+comment8.target=void\ paintThumb(java.awt.Graphics)
+numComments=9

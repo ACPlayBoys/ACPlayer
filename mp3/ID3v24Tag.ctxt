@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ID3v24Tag()
+comment1.params=buffer
+comment1.target=ID3v24Tag(byte[])
+comment2.params=buffer
+comment2.target=void\ unpackFlags(byte[])
+comment3.params=bytes\ offset
+comment3.target=void\ packFlags(byte[],\ int)
+comment4.params=
+comment4.target=boolean\ useFrameUnsynchronisation()
+comment5.params=buffer\ currentOffset
+comment5.target=ID3v2Frame\ createFrame(byte[],\ int)
+comment6.params=id\ data
+comment6.target=ID3v2Frame\ createFrame(java.lang.String,\ byte[])
+comment7.params=text
+comment7.target=void\ setGenreDescription(java.lang.String)
+numComments=8
